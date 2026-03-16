@@ -1,0 +1,5 @@
+{
+  "name": "Shopify Variant Image Manager",
+  "description": "Une application Shopify pour assigner plusieurs images spécifiques à chaque variante de produit.",
+  "requestFramePermissions": []
+}
